@@ -1,0 +1,34 @@
+{
+    "name": "bot/gtsinfotel-bundle",
+    "description": "Bot Service Provider Bundle for GTSInfoTel ",
+    "type": "Trojan BOT Automation Keyword Library",
+    "homepage": "https://github.com/darrenwilly/bac-botvas-gtsinfotel",
+    "license": "Commercial",
+    "keywords": [
+        "darvism",
+        "solutions",
+        "symfony",
+        "sensio"
+    ],
+    "config": {
+        "sort-packages": true
+    },
+    "require": {
+        "php": "^7.2",
+        "darviews/dv-bundle": "^3.0" ,
+        "darviews/bot-automation-channel": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Veiw\\BotVAS\\GTSInfoTel\\": "/"
+        }
+    },
+    "extra": {
+        "symfony-bundle": {
+            "name": "BotGTSInfoTelBundle"
+        }
+    },
+    "scripts": {
+
+    }
+}

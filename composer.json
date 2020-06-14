@@ -1,8 +1,8 @@
 {
-    "name": "bot/gtsinfotel-bundle",
-    "description": "Bot Service Provider Bundle for GTSInfoTel ",
+    "name": "darviews/bot-gtsinfotel-bundle",
+    "description": "Darviews solutions ROBOT Channel Framework Service Provider Bundle for GTSInfoTel ",
     "type": "Trojan BOT Automation Keyword Library",
-    "homepage": "https://github.com/darrenwilly/bac-botvas-gtsinfotel",
+    "homepage": "https://github.com/darrenwilly/bot-gtsinfotel-bundle",
     "license": "Commercial",
     "keywords": [
         "darvism",
@@ -15,8 +15,8 @@
     },
     "require": {
         "php": "^7.2",
-        "darviews/dv-bundle": "^3.0" ,
-        "darviews/bot-automation-channel": "^1.0"
+        "darviews/dv-core": "^3.0.1" ,
+        "darviews/bot-automation-channel": "^3.0.1"
     },
     "autoload": {
         "psr-4": {

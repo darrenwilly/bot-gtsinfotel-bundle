@@ -2,7 +2,7 @@
     "name": "darviews/bot-gtsinfotel-bundle",
     "description": "Darviews solutions ROBOT Channel Framework Service Provider Bundle for GTSInfoTel",
     "homepage": "https://github.com/darrenwilly/bot-gtsinfotel-bundle",
-    "license": "Commercial",
+    "license": "MIT",
     "keywords": [
         "darvism",
         "solutions",
